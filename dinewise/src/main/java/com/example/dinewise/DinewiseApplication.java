@@ -1,13 +1,13 @@
-package com.example.nutribudget;
+package com.example.dinewise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NurtibudgetApplication {
+public class DinewiseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NurtibudgetApplication.class, args);
+		SpringApplication.run(DinewiseApplication.class, args);
 	}
 
 }
