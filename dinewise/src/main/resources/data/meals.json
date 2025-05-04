@@ -1,0 +1,188 @@
+
+[
+  {
+    "foodItem": "Pounded Yam",
+    "servingSize": "1 wrap(200g)",
+    "calories": 470,
+    "healthScore": "Unhealthy",
+    "price": 200,
+    "imageUrl": "https://afrifoodnetwork.com/wp-content/uploads/2017/04/wrapped-pounded-yam.jpg"
+  },
+  {
+    "foodItem": "Amala",
+    "servingSize": "1 wrap(190g)",
+    "calories": 352,
+    "healthScore": "Unhealthy",
+    "price": 200,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0PBKTtqX5jQvHSmQvNuKmUUaZE6XK5zKYAg&s"
+  },
+  {
+    "foodItem": "Eba",
+    "servingSize": "1 wrap(200g)",
+    "calories": 400,
+    "healthScore": "Unhealthy",
+    "price": 200,
+    "imageUrl": "https://www.myactivekitchen.com/wp-content/uploads/2015/03/how-to-make-eba-food-nigerian-eba-img2-1.jpg"
+  },
+  {
+    "foodItem": "Fufu",
+    "servingSize": "1 wrap(200g)",
+    "calories": 370,
+    "healthScore": "Unhealthy",
+    "price": 200,
+    "imageUrl": "https://www.preciouscore.com/wp-content/uploads/2017/07/how-to-make-water-fufu-from-scratch-cassava-fufu.jpg"
+  },
+  {
+    "foodItem": "Semo",
+    "servingSize": "1 wrap(200g)",
+    "calories": 350,
+    "healthScore": "Unhealthy",
+    "price": 200,
+    "imageUrl": "https://fudz.com.ng/wp-content/uploads/2024/02/Semo-fudz.com_.ng_-1024x512.png"
+  },
+  {
+    "foodItem": "Boiled Yam",
+    "servingSize": "1 portion",
+    "calories": 177,
+    "healthScore": "Moderate",
+    "price": 200,
+    "imageUrl": "https://quickneedsstore.com/storage/mamacass-restaurant-33.jpg"
+  },
+  {
+    "foodItem": "Boli (Roasted Plantain)",
+    "servingSize": "1 serving(100g)",
+    "calories": 204,
+    "healthScore": "Moderate",
+    "price": 300,
+    "imageUrl": "https://farmingfarmersfarms.com/wp-content/uploads/2023/08/b9e3dcc7ba34809b.jpg"
+  },
+  {
+    "foodItem": "White Rice",
+    "servingSize": "1 portion(186g)",
+    "calories": 205,
+    "healthScore": "Moderate",
+    "price": 300,
+    "imageUrl": "https://www.currytrail.in/wp-content/uploads/2022/01/How-to-cook-jasmine-rice.jpg"
+  },
+  {
+    "foodItem": "Fried Rice",
+    "servingSize": "1 portion",
+    "calories": 250,
+    "healthScore": "Moderate",
+    "price": 300,
+    "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2024-04-fried-rice%2Ffried-rice-060"
+  },
+  {
+    "foodItem": "Jollof Rice",
+    "servingSize": "1 portion(150g)",
+    "calories": 310,
+    "healthScore": "Moderate",
+    "price": 300,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5PPN_ZQUGAEyLAZ0_tvoHr4dHmRbG60U0Q&s"
+  },
+  {
+    "foodItem": "Ofada Rice (with sauce)",
+    "servingSize": "1 portion",
+    "calories": 350,
+    "healthScore": "Moderate",
+    "price": 300,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqNdv2Ncwo7-yG0po2ir0xMt-PdpurHGT4w&s"
+  },
+  {
+    "foodItem": "Spaghetti (White)",
+    "servingSize": "1 portion(140g)",
+    "calories": 220,
+    "healthScore": "Moderate",
+    "price": 200,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgY-FLkgQ153PP9MTwbxGlzWiQuxBzzGxBw&s"
+  },
+  {
+    "foodItem": "Spaghetti (Stir Fry)",
+    "servingSize": "1 portion(150g)",
+    "calories": 400,
+    "healthScore": "Moderate",
+    "price": 750,
+    "imageUrl": "https://www.maggi.ng/sites/default/files/srh_recipes/e851f57b48f64393adfa3ebd9b55ec5a.jpg"
+  },
+  {
+    "foodItem": "Moi Moi",
+    "servingSize": "1 wrap(250g)",
+    "calories": 380,
+    "healthScore": "Healthy",
+    "price": 300,
+    "imageUrl": "https://allnigerianfoods.com/wp-content/uploads/moi-moi-recipe-1.jpg"
+  },
+  {
+    "foodItem": "Akara",
+    "servingSize": "1 ball",
+    "calories": 270,
+    "healthScore": "Unhealthy",
+    "price": 100,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMyqB5MbP9M8xtHbjvTAldCSrScdWeyYhZ1Q&s"
+  },
+  {
+    "foodItem": "Beans (Plain)",
+    "servingSize": "1 portion(180g)",
+    "calories": 240,
+    "healthScore": "Healthy",
+    "price": 400,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBGYa7Y0Lf7eEjTfrQH-9qPo1mYEij-A7Fg&s"
+  },
+  {
+    "foodItem": "Ewa Agoyin",
+    "servingSize": "1 portion",
+    "calories": 300,
+    "healthScore": "Healthy",
+    "price": 400,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_eIGaHN8kvbIo1oe0A58ZcQbbL0EnTNqILg&s"
+  },
+  {
+    "foodItem": "Yam Porridge",
+    "servingSize": "1 portion(250g)",
+    "calories": 280,
+    "healthScore": "Healthy",
+    "price": 400,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3E-8m2QVa8tJ0bOr08NW9ECs7dXLpisXZw&s"
+  },
+  {
+    "foodItem": "Efo Riro",
+    "servingSize": "1 serving(240g)",
+    "calories": 178,
+    "healthScore": "Healthy",
+    "price": 500,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdddqo1YIX3mfXKbZLntAH-UH5n-_fghDRJA&s"
+  },
+  {
+    "foodItem": "Edikang Ikong Soup",
+    "servingSize": "1 serving(240g)",
+    "calories": 280,
+    "healthScore": "Healthy",
+    "price": 650,
+    "imageUrl": "https://img-global.cpcdn.com/recipes/1c040b78888229ac/1200x630cq70/photo.jpg"
+  },
+  {
+    "foodItem": "Egusi Soup",
+    "servingSize": "1 serving(252g)",
+    "calories": 306,
+    "healthScore": "Healthy",
+    "price": 250,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcpdYga7vs60o72usDdIJV-n4KYFVUeslNg&s"
+  },
+  {
+    "foodItem": "Ogbono Soup",
+    "servingSize": "1 serving(238g)",
+    "calories": 174,
+    "healthScore": "Moderate",
+    "price": 300,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Okro_soup_with_shrimps%2Cdried_fish%2Ccow_leg_and_tail_with_meat.jpg"
+  },
+  {
+    "foodItem": "Ewedu Soup",
+    "servingSize": "1 serving(240g)",
+    "calories": 97,
+    "healthScore": "Healthy",
+    "price": 200,
+    "imageUrl": "https://www.myactivekitchen.com/wp-content/uploads/2021/05/ewedu-img-31.jpg"
+  }
+
+]
