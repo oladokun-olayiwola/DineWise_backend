@@ -1,14 +1,29 @@
-
 package com.example.nutribudget.model;
 
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "meals_info")
 public class Meal {
 
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
+
+    @Column(name = "food_item")
     private String foodItem;
+
+    @Column(name = "serving_size")
     private String servingSize;
+
     private int calories;
+
+    @Column(name = "health_score")
     private String healthScore;
+
     private int price;
+
+    @Column(name = "image_url")
     private String imageUrl;
 
     // Getters and Setters
