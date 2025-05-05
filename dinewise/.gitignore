@@ -53,7 +53,6 @@ bin/
 
 # Environment & secret files
 .env
-application.properties
 application.yml
 *.db
 
