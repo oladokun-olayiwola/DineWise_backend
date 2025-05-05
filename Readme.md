@@ -43,9 +43,6 @@ DineWise is a Spring Boot backend service for managing and recommending meal com
 ### Run the Project
 
 ```bash
-export DB_URL=jdbc:mysql://localhost:3306/yourdb
-export DB_USERNAME=root
-export DB_PASSWORD=yourpassword
 ./mvnw spring-boot:run
 ```
 
