@@ -44,7 +44,9 @@ public class MealService {
         if (updates.getImageUrl() != null) {
             meal.setImageUrl(updates.getImageUrl());
         }
-
+        if (updates.getFoodCombination() != null) {
+            meal.setFoodCombination(updates.getFoodCombination());
+        }
         return mealRepository.save(meal);
     }    
 }
