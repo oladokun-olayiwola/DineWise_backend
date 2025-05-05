@@ -66,10 +66,12 @@ DineWise is a Spring Boot backend service for managing and recommending meal com
 Edit `src/main/resources/application.properties` to set up DB connection and other settings.
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/dinewise
-spring.datasource.username=root
-spring.datasource.password=yourpassword
-spring.jpa.hibernate.ddl-auto=update
+export DB_URL=jdbc:mysql://localhost:3306/yourdb
+export DB_USERNAME=yourusername
+export DB_PASSWORD=yourpassword
+spring.jpa.hibernate.ddl-auto=none
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 ```
 
 ---
